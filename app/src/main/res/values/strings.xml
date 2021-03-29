@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tugas1cv</string>
+    <string name="email">akufirman22@gmail.com</string>
+    <string name="nomer_hape">081226375943</string>
+    <string name="location">JOGJA</string>
+    <string name="student">STUDENT</string>
+    <string name="nama">FIRMAN AULIA\nINSANI</string>
+    <string name="education">EDUCATION</string>
+    <string name="education_detail">
+        UNIVERSITAS\nPEMBANGUNAN NASIONAL\nVETERAN YOGYAKARTA</string>
+</resources>
